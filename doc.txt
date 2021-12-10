@@ -1,0 +1,15 @@
+Slack API:
+https://api.slack.com/ - create app
+oauth & permissions
+bot token scopes (chat:write + im:write)
+OAuth Tokens for Your Workspace -> log in to workspace, get token
+
+event subscriptions -> turn on
+set up permissions
+
+https://pypi.org/project/slackclient/
+https://pypi.org/project/slack-sdk/
+slackclient (under maintenance at the moment) -> slack_sdk
+https://github.com/slackapi/python-slack-events-api
+
+-> add bot to needed channel
